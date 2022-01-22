@@ -1,0 +1,17 @@
+{ 
+  "name": "footacademy",
+  "version": "1.0.0",
+  "description": "a mean stack application for footacademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "angular",
+    "ionic"
+  ],
+  "author": "mohamed amine mezghich",
+  "license": "ISC"
+}
