@@ -1,4 +1,6 @@
-console.log("Hello Node Express");
-console.log("Part 1 : API");
-console.log("Part 2 : MongoDB");
-console.log("Part 3 : Angular");
+const express = require("express"); // import du serveur express
+const app = express();  // instanciation du serveur express
+
+app.listen(80,()=>{
+    console.log("REST API using Node Express JS");
+})
